@@ -1,4 +1,4 @@
-import { moveisUsados, consertoDeRoupas, confeitaria, outrosServiços  } from "./dados.js";
+import { moveisUsados, consertoDeRoupas, confeitaria, outrosServicos  } from "./dados.js";
 
 export default function handler(req, res) {
     res.setHeader('Access-Control-Allow-Origin', 'http://localhost:5173');
