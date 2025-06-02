@@ -65,7 +65,7 @@ export const confeitaria = [
     },
 ]
 
-export const outrosServiços = [
+export const outrosServicos = [
     {
         title: 'Acompanhante hospitalar',
         images: ['url'],

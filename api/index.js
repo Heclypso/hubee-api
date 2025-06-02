@@ -9,7 +9,7 @@ export default function handler(req, res) {
         moveisUsados,
         consertoDeRoupas,
         confeitaria,
-        outrosServiços
+        outrosServicos
     }
 
     res.status(200).json(dadosDoCatalogo);
